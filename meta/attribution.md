@@ -5,7 +5,7 @@ Attribution will be provided in a way that is fair, scalable, and consistent wit
 
 ## How Attribution Works
 - Authorship and contribution history are recorded in Git commit history.
-- Contributors whose work is merged into the main branch and considered canon are eligible to be listed in [contributors.md](meta/contributors.md).
+- Contributors whose work is merged into the main branch and considered canon are eligible to be listed in [contributors.md](contributors.md).
 - Depending on how large the project gets, minor contributions may be credited via git commit history only.
 - Contributors may request a preferred display name or pseudonym in contributors.md
 
