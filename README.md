@@ -1,22 +1,161 @@
-# The-Open-Novel
-Welcome to The Open Novel. This idea came from many stories having disappointing arcs and endings with fan theories always feeling more well written and fleshed out. This is a way to test if the public could truly write a better story than professionals. All plot-lines, characters, settings, and even chapters will be written entirely by the community.
+# The Open Novel
 
-## How this will work
-- Anyone can contribute via pull requests
-- The Main branch is considered Canon
-- Forks are encouraged
+_A collaboratively written, open‑source novel built on GitHub._
 
-## License
+The Open Novel is an experiment in community storytelling. Many times movies, t.v. shows, and novels feel like community created fan theories are better written and fleshed out than what was actually produced. This sparked the idea of creating an open-source community written and maintained novel.
 
-This project is licensed under the
-**Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)**.
+Anyone can read the story. Anyone can write the story.
+
+----------
+
+## 📖 What This Is
+
+-   A **novel** written by many contributors
+    
+    
+
+This is not a free‑for‑all wiki. It’s a collaboratively edited book.
+
+----------
+
+## 🧭 How the Story Is Organized
+
+-   `main` branch → **Canon** (official story)
+    
+-   `experimental` branch → **Drafts, alternatives, and bold ideas**
+    
+-   Forks → **Parallel interpretations** (all valid, all open)
+    
+
+Directory overview:
+
+```
+/story/        → Chapters and prose
+/lore/         → Characters, worldbuilding, timeline
+/meta/         → Canon rules, style guide, attribution
+
+```
+
+----------
+
+## ✍️ How to Contribute
+
+You do **not** need permission to contribute.
+
+### Basic workflow
+
+1.  Clone the repo
+    
+2.  Create a branch for your change
+    
+3.  Write or edit prose
+    
+4.  Open a pull request (base set to `experimental`)
+    
+
+Good contributions include:
+
+-   New chapters or scenes
+    
+-   Rewrites or expansions
+    
+-   Lore clarifications
+
+Before contributing, please read:
+
+-   [contribution_guide.md](meta/contribution_guide.md)
+    
+-   [style_guide.md](meta/style_guide.md)
+    
+-   [canon_policy.md](meta/canon_policy.md)
+   
+----------
+
+## 🧠 Canon & Editorial Control
+
+-   The `main` branch represents **official canon**
+    
+-   Maintainers decide what becomes canon
+    
+-   Not all PRs will be merged
+    
+-   Rejections ≠ invalid ideas
+    
+
+Forks and non‑canon branches are encouraged.
+
+> Think of this like a writers’ room with an editor, not a democracy.
+
+----------
+
+## 🪪 License
+
+This project is licensed under:
+
+**Creative Commons Attribution–ShareAlike 4.0 International (CC BY‑SA 4.0)**
 
 You are free to:
-- Read, copy, and share the story
-- Submit pull requests and forks
-- Adapt, remix, and redistribute the text
-- Use it commercially
+
+-   Read, copy, and share the story
+    
+-   Modify and remix the text
+    
+-   Fork the project
+    
+-   Use it commercially
+    
 
 As long as you:
-- Give appropriate credit
-- License derivative works under the same terms
+
+-   Give appropriate credit
+    
+-   License derivative works under the same terms
+    
+
+This ensures the story remains free and open **forever**.
+
+Full license text: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+----------
+
+## 👥 Attribution
+
+This is a collective work.
+
+Contributors are credited through:
+
+- Name in the contributions.md file
+-   Git commit history
+
+See [attribution.md](meta/attribution.md) for details.
+
+----------
+
+## 🗣 Code of Conduct
+
+Be kind. Be constructive. Be curious.
+
+Harassment, plagiarism, or bad‑faith behavior will not be tolerated.
+
+See `CODE_OF_CONDUCT.md`.
+
+----------
+
+## 🚀 Getting Started (5 Minutes)
+
+```bash
+git clone https://github.com/<your-username>/the-open-novel.git
+cd the-open-novel
+git switch experimental
+git switch -c my-first-change
+```
+
+For a more detailed guide see the [contribution_guide.md](meta/contributing_guide)
+
+----------
+
+## 📬 Questions / Ideas
+
+- Open an Issue.
+- Join the Discord.
+- Make a change and submit a Pull Request.
