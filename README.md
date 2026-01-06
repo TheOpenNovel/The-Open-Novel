@@ -1,5 +1,10 @@
 # The-Open-Novel
-Welcome to The Open Novel. This idea came from many stories having severe disappointing arcs and endings with fan theories seeming significantly better. This is a way to test if the public audience truly can write a better story than professionals. All plotlines, characters, settings, and even chapters will be written entirely by the community.
+Welcome to The Open Novel. This idea came from many stories having disappointing arcs and endings with fan theories always feeling more well written and fleshed out. This is a way to test if the public could truly write a better story than professionals. All plot-lines, characters, settings, and even chapters will be written entirely by the community.
+
+## How this will work
+- Anyone can contribute via pull requests
+- The Main branch is considered Canon
+- Forks are encouraged
 
 ## License
 
