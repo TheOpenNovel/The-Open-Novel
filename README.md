@@ -148,7 +148,9 @@ See [code_of_conduct.md](meta/code_of_conduct.md).
 First step will be to open your console or terminal.
 
 Windows: cmd
+
 Mac: Terminal
+
 Linux: You already know this lol
 
 ```bash
