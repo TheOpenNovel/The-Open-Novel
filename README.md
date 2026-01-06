@@ -156,7 +156,7 @@ cd the-open-novel
 git switch experimental
 git switch -c my-first-change
 ```
-For a more detailed guide see the [contribution_guide.md](meta/contribution_guide)
+For a more detailed guide see the [contribution_guide.md](meta/contribution_guide.md)
 
 ----------
 
