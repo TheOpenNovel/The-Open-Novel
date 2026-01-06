@@ -3,7 +3,7 @@ This project is a collaborative experiment trying to write an open-source novel.
 
 This file lists contributors whose work on this project has either made it's way into the canon story or has helped build up the project to what it is today.
 
-Attribution is handled based on our [attribution.md](meta/attribution.md) file. For information on how to be listed as a contributor, see the attribution guide.
+Attribution is handled based on our [attribution.md](attribution.md) file. For information on how to be listed as a contributor, see the attribution guide.
 
 ## Chapter Writers
 People who have contributed to writing directly into the story, whether that be multiple chapters, or even single paragraph rewrites.
