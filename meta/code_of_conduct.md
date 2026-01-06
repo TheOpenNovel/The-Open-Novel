@@ -15,8 +15,10 @@ By participating in this project you agree to follow this Code of Conduct.
 - Explain the why behind feedback.
 - Avoid personal attacks.
 
-## Respect Creative Work
-- Do not submit plagiarized or copyrighted work
+## Respect Creative Work / AI Policy
+- Do not submit plagiarized or copyrighted work.
+- AI generated text is not allowed to write the actual chapters.
+- AI used to help generate documentation or summaries is acceptable.
 
 ## Keep the Space PG-13
 The following space does not allow:

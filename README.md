@@ -137,6 +137,7 @@ Harassment, plagiarism, or bad‑faith behavior will not be tolerated.
 
 - No explicit sexual material will be added
 - Swearing, while allowed, will only be accepted sparingly
+- No AI writings allowed within chapters
 
 See [code_of_conduct.md](meta/code_of_conduct.md).
 
