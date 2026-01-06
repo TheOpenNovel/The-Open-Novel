@@ -1,3 +1,4 @@
+
 # The Open Novel
 
 _A collaboratively written, open‑source novel built on GitHub._
@@ -10,9 +11,8 @@ Anyone can read the story. Anyone can write the story.
 
 ## 📖 What This Is
 
--   A **novel** written by many contributors
-    
-    
+- A novel written by many contributors
+- An experimental project to see if a community can actually come together and write a better story than industry professionals.
 
 This is not a free‑for‑all wiki. It’s a collaboratively edited book.
 
@@ -84,8 +84,6 @@ Before contributing, please read:
 
 Forks and non‑canon branches are encouraged.
 
-> Think of this like a writers’ room with an editor, not a democracy.
-
 ----------
 
 ## 🪪 License
@@ -137,19 +135,27 @@ Be kind. Be constructive. Be curious.
 
 Harassment, plagiarism, or bad‑faith behavior will not be tolerated.
 
-See `CODE_OF_CONDUCT.md`.
+- No explicit sexual material will be added
+- Swearing, while allowed, will only be accepted sparingly
+
+See [code_of_conduct.md](meta/code_of_conduct.md).
 
 ----------
 
-## 🚀 Getting Started (5 Minutes)
+## 🚀 Getting Started (How to clone)
+
+First step will be to open your console or terminal.
+
+Windows: cmd
+Mac: Terminal
+Linux: You already know this lol
 
 ```bash
-git clone https://github.com/<your-username>/the-open-novel.git
+git clone https://github.com/TheOpenNovel/the-open-novel.git
 cd the-open-novel
 git switch experimental
 git switch -c my-first-change
 ```
-
 For a more detailed guide see the [contribution_guide.md](meta/contributing_guide)
 
 ----------
